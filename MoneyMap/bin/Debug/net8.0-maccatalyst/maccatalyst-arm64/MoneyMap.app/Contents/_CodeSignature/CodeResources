@@ -10,7 +10,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		+OMbkiSxN0GuTl7QrqzhWW/07Sw=
+		L7bVQc2o4vLNGv3KpUn9s+7es/Q=
+		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		A/74dbGgxu/fUONI00Bycn7+qco=
 		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
@@ -38,11 +42,19 @@
 		</data>
 		<key>Resources/wwwroot/MoneyMap.bundle.scp.css</key>
 		<data>
-		a9SM37asY86EX6gUJfBHaAiEpdU=
+		M0F8LCRRylL6To5o0GLvhxy02sQ=
 		</data>
 		<key>Resources/wwwroot/MoneyMap.styles.css</key>
 		<data>
-		a9SM37asY86EX6gUJfBHaAiEpdU=
+		M0F8LCRRylL6To5o0GLvhxy02sQ=
+		</data>
+		<key>Resources/wwwroot/_content/MudBlazor/MudBlazor.min.css</key>
+		<data>
+		Biz8GRtu9jGQ+JQlHV3a4Z1nrM8=
+		</data>
+		<key>Resources/wwwroot/_content/MudBlazor/MudBlazor.min.js</key>
+		<data>
+		L4YhYQ8fWjdUrmypDicymYGetgM=
 		</data>
 		<key>Resources/wwwroot/css/app.css</key>
 		<data>
@@ -62,7 +74,7 @@
 		</data>
 		<key>Resources/wwwroot/index.html</key>
 		<data>
-		Mu1TVdXBCRvzsGodllhSy7m9s48=
+		7GdQGpQmRdXmSsLam+XHMTrI5dU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -71,21 +83,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gp/tGh4HXZYf3Iv0MWfNq1f7syHPxcOkm6ClF86bXbA=
+			gAqu76y+Be5hEr5fRWuRWEGS/UDwoMfmFLgXQw+1jxE=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.AspNetCore.Components.Forms.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q9ZDEdzZZl94ms3Z1vqvuSqu+V0RjZKL3gLrTTRmurY=
+			uJjmhwSJ7wmktE9xKTn+RliDrrzGnGHblnUivBf+WKA=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.AspNetCore.Components.Web.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A8QwA/Qyac+L3oR95oDdshvOsHfS7hTVvRsb/ubgbzk=
+			TonKzhSzCNqxe0PTvSKonA5ZwFg0TcBHQ7/Cb60mDUE=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.AspNetCore.Components.WebView.Maui.dll</key>
@@ -106,14 +118,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1eW4DpPzsNt1YYe0wsHkGhu2nz4IHHcLZxiSWqPNEok=
+			d1sMxhBqMpO4Keg+bXOAoII+4o+dzX+9A+CDNpzL8YI=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.AspNetCore.Metadata.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ao+vLE6kWbigI+bK08JQzgNtttyhpxZj71LL0l3b3I8=
+			+XM93KopUFb3wP31IVr2/3J2i/i1+TSM+5IqUWylUmc=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -207,6 +219,20 @@
 			7QhVtSLwm1qd27hd5iBCwl4H0QBECG2oYgyEXeQeRzw=
 			</data>
 		</dict>
+		<key>MonoBundle/Microsoft.Extensions.Localization.Abstractions.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SMt9/csvX905jNUjt/DNZ7gT6F0DcRfZNpXTyXyfChM=
+			</data>
+		</dict>
+		<key>MonoBundle/Microsoft.Extensions.Localization.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yM9IGQ/SPJGIp8GVs+ZM2MmoF87uY/uSfAy6qxbZROc=
+			</data>
+		</dict>
 		<key>MonoBundle/Microsoft.Extensions.Logging.Abstractions.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -246,7 +272,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/iu0wZLSuuLY/15fto3Q+KNoxbACL1riKB8YDGSX3R4=
+			Hkyonzii4snD1Ggo/YBu4IX3rVhAS8fhl/pagsbK4og=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.MacCatalyst.dll</key>
@@ -337,14 +363,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7OD6OQsSdue8vZww8uNqtn5BzelkYZQpWoxkQmP8ROc=
+			OvRqbPXyrPP0x3URpsnvzvbi6AIYs2ff6Zxu65e+lkQ=
 			</data>
 		</dict>
 		<key>MonoBundle/MoneyMap.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6zZIaSQ7S9GCUmvrXF4mrxflFhwlv9i3aGK0YJ/Cxg=
+			qP3MWai+/ImwUpHkVN/jgT0SevpxLoHpEKdk60qVeZs=
+			</data>
+		</dict>
+		<key>MonoBundle/MudBlazor.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4ZRCb3wU9lXY/i8onINL8uAC1xBNp4etLcrZRZTBHN0=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1492,7 +1525,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HbZWgC3VgtcUOQCEFJUOPbg4ttTeZeJMUQy+cwm9OoA=
+			hDBamdmRxB/bmh+9Muv0Nrjb7n0GbLurMUyOZHx9mjk=
 			</data>
 		</dict>
 		<key>MonoBundle/ar/Microsoft.Maui.Controls.resources.dll</key>
@@ -1772,7 +1805,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rs/Pe15TI2MN0BCLsw0qXXH8iKfRsddSaNvnTzrWLvY=
+			GOp1YtMVZe5G9+zGCDzZHo+6Rj0Fxm3Whq6hhAt0mhI=
+			</data>
+		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UEORARmYMQB21vcObyk2tL7rhjGOSCGHQz3UGRUssW0=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
@@ -1821,14 +1861,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			00hEUp5Ca0lY/SYFE+MF6se0j7iZMcqliRRvi11/f3E=
+			nvB5zcczdtVCz9TSvmEmQgRI7+zmDG+6HYWIdYCKj/Y=
 			</data>
 		</dict>
 		<key>Resources/wwwroot/MoneyMap.styles.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			00hEUp5Ca0lY/SYFE+MF6se0j7iZMcqliRRvi11/f3E=
+			nvB5zcczdtVCz9TSvmEmQgRI7+zmDG+6HYWIdYCKj/Y=
+			</data>
+		</dict>
+		<key>Resources/wwwroot/_content/MudBlazor/MudBlazor.min.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E14TKTuGO7mr2253qADLKNg+hJitSVU79h2N69i9TVM=
+			</data>
+		</dict>
+		<key>Resources/wwwroot/_content/MudBlazor/MudBlazor.min.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nVk6Hg5L5gv/Ld5AZMffnbMigQtsr+rAicYyyjCNXrc=
 			</data>
 		</dict>
 		<key>Resources/wwwroot/css/app.css</key>
@@ -1863,7 +1917,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lyx1qwl5aBpLEBo9hZ1Xvf1G1/NqnuEpEUanEl0gQEM=
+			agd4xOHcx+yQX9KzY7MqrkbWPrUXBZ1u/x/wdcETDB8=
 			</data>
 		</dict>
 	</dict>
