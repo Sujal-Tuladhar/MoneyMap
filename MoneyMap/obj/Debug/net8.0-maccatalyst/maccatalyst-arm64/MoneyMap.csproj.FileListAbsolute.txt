@@ -282,7 +282,6 @@
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildTransitive.MoneyMap.props
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/staticwebassets.pack.json
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
-/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/Components/Pages/Login.razor.rz.scp.css
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/bundle/MoneyMap.styles.css
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/projectbundle/MoneyMap.bundle.scp.css
@@ -333,3 +332,7 @@
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/MoneyMap.pdb
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/MoneyMap.genruntimeconfig.cache
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/MoneyMap.dll
+/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/Components/Pages/Debt.razor.rz.scp.css
+/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/Components/Pages/Transaction.razor.rz.scp.css
+/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/Components/Pages/Register.razor.rz.scp.css
