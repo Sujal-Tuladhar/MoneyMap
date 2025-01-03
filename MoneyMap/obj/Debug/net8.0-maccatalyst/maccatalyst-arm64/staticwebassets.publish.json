@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b7vdWqtwrPtJzV12tcJX665ljigxXeDl0/zkOxW5KX8=",
+  "Hash": "UZeUjhBAE5JlhT9ehTU4N/hRtGfau/mfmBhw2zKKVK8=",
   "Source": "MoneyMap",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,44 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/sujaltuladhar/.nuget/packages/mudblazor/8.0.0-preview.7/staticwebassets/MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/sujaltuladhar/.nuget/packages/mudblazor/8.0.0-preview.7/staticwebassets/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/sujaltuladhar/.nuget/packages/mudblazor/8.0.0-preview.7/staticwebassets/MudBlazor.min.css"
+    },
+    {
+      "Identity": "/Users/sujaltuladhar/.nuget/packages/mudblazor/8.0.0-preview.7/staticwebassets/MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/sujaltuladhar/.nuget/packages/mudblazor/8.0.0-preview.7/staticwebassets/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/sujaltuladhar/.nuget/packages/mudblazor/8.0.0-preview.7/staticwebassets/MudBlazor.min.js"
+    },
     {
       "Identity": "/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/scopedcss/bundle/MoneyMap.styles.css",
       "SourceId": "MoneyMap",

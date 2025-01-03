@@ -53,6 +53,8 @@
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Extensions.FileProviders.Embedded.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Extensions.FileProviders.Physical.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Extensions.Localization.dll
+/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Extensions.Localization.Abstractions.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Extensions.Logging.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Extensions.Logging.Debug.dll
@@ -65,6 +67,7 @@
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Maui.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
+/Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/MudBlazor.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/System.IO.Pipelines.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/MoneyMap.dll
 /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MoneyMap.app/Contents/MonoBundle/Microsoft.CSharp.dll
