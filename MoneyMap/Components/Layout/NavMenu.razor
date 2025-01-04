@@ -1,6 +1,4 @@
-﻿
-
-<div class="top-row ps-3 navbar navbar-dark">
+﻿<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="">MoneyMap</a>
     </div>
@@ -26,9 +24,13 @@
             </NavLink>
         </div>
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="/" Match="NavLinkMatch.All">
+            <NavLink class="nav-link" href="/" @onclick="OnLogout">
                 <span class="bi bi-list-logout-nav-menu" aria-hidden="true"></span> Logout
             </NavLink>
         </div>
+        <p style=" color: white; font-size: 14px;"><strong>Username:</strong> @Username</p>
+        <p style=" color: white; font-size: 14px;"><strong>Currency:</strong> @Currency</p>
+
+
     </nav>
 </div>

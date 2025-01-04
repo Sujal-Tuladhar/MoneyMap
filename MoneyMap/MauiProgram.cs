@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using MoneyMap.Data.Services;
 using MudBlazor.Services;
 
 namespace MoneyMap;
@@ -13,6 +14,8 @@ public static class MauiProgram
             .ConfigureFonts(fonts => { fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular"); });
 
         builder.Services.AddMauiBlazorWebView();
+        builder.Services.AddSingleton<UserService>();
+
 
 #if DEBUG
         builder.Services.AddBlazorWebViewDeveloperTools();

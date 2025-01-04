@@ -1,7 +1,7 @@
 namespace MoneyMap.Data.Models
 {
     // The User class represents a user with basic authentication and currency preferences
-    internal class User
+    public class User
     {
         // Properties for User credentials and settings
         public string Username { get; set; }
@@ -19,7 +19,7 @@ namespace MoneyMap.Data.Models
         // Method to check if the password matches the provided one
         public bool ValidatePassword(string inputPassword)
         {
-            return Password.Equals(inputPassword);
+            return Password == inputPassword;
         }
 
         // Method to update the user's currency
