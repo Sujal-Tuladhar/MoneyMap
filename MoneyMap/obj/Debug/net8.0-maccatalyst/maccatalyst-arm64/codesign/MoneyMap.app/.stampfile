@@ -1,1 +1,0 @@
--v --force --timestamp=none --sign - --entitlements /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/sujaltuladhar/RiderProjects/MoneyMap/MoneyMap/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MoneyMap.app

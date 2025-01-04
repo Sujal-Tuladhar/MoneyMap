@@ -27,7 +27,14 @@ namespace MoneyMap.Data
         }
 
         // Get the path for storing users.json
-        public static string GetUsersPath() => Path.Combine(GetAppDirectory(), "users.json");
+        public static string GetUsersPath()
+        {
+            string usersPath = Path.Combine(GetAppDirectory(), "users.json");
+            Console.WriteLine($"Users file path: {usersPath}"); // Add this line to log the path
+            return usersPath;
+        }
+
+        
 
         // Get the path for storing transactions.json
         public static string GetTransactionsPath() => Path.Combine(GetAppDirectory(), "transactions.json");

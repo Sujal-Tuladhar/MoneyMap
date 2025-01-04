@@ -1,7 +1,22 @@
 @page "/dashboard"
+@inject IJSRuntime JSRuntime
 
 <h3>Dashboard</h3>
 
+<p><strong>Username:</strong> @Username</p>
+<p><strong>Currency:</strong> @Currency</p>
+
 @code {
-    
+    private string Username { get; set; }
+    private string Currency { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Retrieve data from localStorage
+        Username = await JSRuntime.InvokeAsync<string>("localStorage.getItem", "username");
+        Currency = await JSRuntime.InvokeAsync<string>("localStorage.getItem", "currency");
+
+        // Optionally, you can log it to the console
+        Console.WriteLine($"Username: {Username}, Currency: {Currency}");
+    }
 }

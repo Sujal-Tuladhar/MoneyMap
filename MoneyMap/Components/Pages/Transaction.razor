@@ -1,6 +1,56 @@
 @page "/transaction"
+@using MudBlazor
+
 <h3>Transaction</h3>
 
+<EditForm Model="@transactionModel" OnValidSubmit="OnSubmit">
+    <DataAnnotationsValidator />
+    <MudGrid>
+        <MudItem xs="12" sm="6">
+            <MudTextField Label="Title" @bind-Value="transactionModel.Title" Variant="Variant.Outlined" Class="mb-3" />
+        </MudItem>
+
+        <MudItem xs="12" sm="6">
+            <MudTextField Label="Amount" @bind-Value="transactionModel.Amount" Variant="Variant.Outlined" Type="number" Class="mb-3" />
+        </MudItem>
+
+        <MudItem xs="12" sm="6">
+            <MudSelect T="string" Label="Type" @bind-Value="transactionModel.Type" Variant="Variant.Outlined" Class="mb-3">
+                <MudSelectItem Value="Credit">Credit</MudSelectItem>
+                <MudSelectItem Value="Debit">Debit</MudSelectItem>
+            </MudSelect>
+        </MudItem>
+
+        <MudItem xs="12" sm="6">
+            <MudTextField Label="Note" @bind-Value="transactionModel.Note" Variant="Variant.Outlined" Class="mb-3" />
+        </MudItem>
+
+        <MudItem xs="12">
+            <MudAutocomplete T="string" Label="Tags" @bind-Value="transactionModel.Tags" MultiSelection="true" Variant="Variant.Outlined" Class="mb-3" />
+        </MudItem>
+
+        <MudItem xs="12">
+            <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary" Size="Size.Large" FullWidth="true">
+                Submit
+            </MudButton>
+        </MudItem>
+    </MudGrid>
+</EditForm>
+
 @code {
-    
+private TransactionModel transactionModel = new TransactionModel();
+
+private async Task OnSubmit()
+{
+Console.WriteLine($"Title: {transactionModel.Title}, Amount: {transactionModel.Amount}, Type: {transactionModel.Type}, Note: {transactionModel.Note}, Tags: {string.Join(", ", transactionModel.Tags)}");
+}
+
+public class TransactionModel
+{
+public string Title { get; set; } = string.Empty;
+public decimal Amount { get; set; }
+public string Type { get; set; } = string.Empty;
+public string Note { get; set; } = string.Empty;
+public List<string> Tags { get; set; } = new List<string>();
+}
 }
